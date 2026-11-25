@@ -31,4 +31,4 @@ reproduction of the project's published/displayed evaluation figures.
 No real well identifiers, production records, input spreadsheets, trained
 weights, GUI resources or third-party tutorial notebooks are distributed.
 
-[Academic homepage](https://xrnb2000.github.io/)
+[Academic homepage](https://rayxue000.github.io/)
